@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Closed Pull Request</string>
+    <string name="error_text">Some error occurred. Try again later.</string>
+    <string name="title">Title</string>
+    <string name="created_date">Created Data</string>
+    <string name="closed_date">Closed Data</string>
+    <string name="username">Username</string>
+</resources>
